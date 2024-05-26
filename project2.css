@@ -1,0 +1,147 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
+nav ul {
+  height: 100px;
+  width: 100%;
+  background-color: palevioletred;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  font-size: larger;
+  transition: all 1s linear;
+}
+
+#log {
+  color: black;
+}
+div {
+  height: 900px;
+  width: 900px;
+}
+#bin:hover {
+  color: green;
+}
+
+#bin1:hover {
+  color: green;
+}
+#a {
+  position: relative;
+  left: 100px;
+}
+#b:hover {
+  color: green;
+}
+
+#bin2:hover {
+  color: green;
+}
+#bin3:hover {
+  color: green;
+}
+#bin4:hover {
+  color: green;
+}
+#bin5:hover {
+  color: green;
+}
+#bin6:hover {
+  color: green;
+}
+#bin7:hover {
+  color: green;
+}
+
+body {
+  background-image: url("https://cdn.pixabay.com/photo/2016/06/02/02/33/triangles-1430105_640.png");
+  background-repeat: no-repeat;
+  background-size: 300%;
+}
+#m {
+  position: absolute;
+  top: 120px;
+  color: red;
+  left: 40%;
+}
+#l {
+  position: relative;
+  top: 100px;
+  border-radius: 20px;
+}
+#t {
+  position: relative;
+  top: 100px;
+  left: 15%;
+  border-radius: 20px;
+}
+
+#y {
+  position: relative;
+  top: 200px;
+  border-radius: 20px;
+}
+#z {
+  position: relative;
+  top: 200px;
+  left: 15%;
+  border-radius: 20%;
+}
+#g {
+  position: relative;
+  top: -27vh;
+  left: 120%;
+  border-radius: 30px;
+}
+#a {
+  position: relative;
+  top: -704px;
+  left: 75%;
+  border-radius: 30px;
+}
+#c {
+  position: relative;
+  bottom: 100px;
+  border-radius: 50%;
+}
+#m {
+  position: relative;
+  top: -13vh;
+  left: 75%;
+  border-radius: 50%;
+}
+#d {
+  position: relative;
+  bottom: -5%;
+  border-radius: 50%;
+}
+#e {
+  position: relative;
+  bottom: 55%;
+  left: 15%;
+  border-radius: 50%;
+}
+#f {
+  position: relative;
+  bottom: 40%;
+  left: 60%;
+  border-radius: 30%;
+}
+#k {
+  position: relative;
+  left: 75%;
+  bottom: 40%;
+  border-radius: 40%;
+}
+#app {
+  height: 30%;
+  width: 100%;
+  background-color: palevioletred;
+  display: flex;
+  align-items: center;
+}
